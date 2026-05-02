@@ -116,10 +116,9 @@ Puedes agregar aquí capturas de pantalla del proyecto:
 
 ## 👨‍💻 Autor
 
-Desarrollado por Sebastian.
+Desarrollado por Sebastian Ñustes.
 
 ---
 
-## 📄 Licencia
-
-Este proyecto es de uso educativo y demostrativo.
+## 📄 Proyectos de grupo de trabajo
+https://github.com/0dase/Productoscarnicos
